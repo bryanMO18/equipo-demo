@@ -1,1 +1,4 @@
 Idea inicial del proyecto... 
+
+Bryan: este proyecto me ayudará a dominar Git.
+
